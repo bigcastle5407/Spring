@@ -6,4 +6,6 @@ public interface TimeMapper {
 
 	@Select("SELECT sysdata FROM dual")
 	public String getTime();
+
+	public String getTime2();
 }

@@ -82,6 +82,7 @@
 &lt;/ul&gt;&lt;h3&gt;&lt;a href="#spring-cloud-commons" class="anchor" name="spring-cloud-commons"&gt;&lt;/a&gt;Spring Cloud Commons&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Adds registration lifecycle listeners (&lt;a href=""&gt;999&lt;/a&gt;&lt;a href="https://github.com/spring-cloud/spring-cloud-commons/issues/999"&gt;https://github.com/spring-cloud/spring-cloud-commons/issues/999&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Request data context for blocking LoadBalancer client requests has been made available to lifecycle callbacks (&lt;a href="https://github.com/spring-cloud/spring-cloud-commons/issues/1090"&gt;1090&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The following modules were updated as part of 2022.0.0-M3:&lt;/p&gt;
 &lt;table&gt;
